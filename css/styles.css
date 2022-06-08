@@ -1,0 +1,13 @@
+body {
+    background-color: darkolivegreen;
+}
+
+div {
+    background-color: blanchedalmond;
+}
+
+.hipsum {
+    background-color: rgb(95, 7, 7);
+    border-style: solid;
+    border-radius: 10px;
+}

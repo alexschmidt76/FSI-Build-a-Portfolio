@@ -1,3 +1,5 @@
+/* css code to make the profile look nice */
+
 body {
     background-color: darkolivegreen;
 }
@@ -6,12 +8,9 @@ div {
     background-color: blanchedalmond;
 }
 
+/* hipsum class is in the about me section */
 .hipsum {
     background-color: red;
     border-style: solid;
     border-radius: 10px;
-}
-
-img {
-    size: 200px x 200px;
 }
